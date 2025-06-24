@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Donut</title>
+    </head>
+    <body>
+        <header>Donat Header</header>
+
+        <h1>PT Donat</h1>
+
+        <div>ini hanyalah sebuah div</div>
+
+        <footer>ini footer</footer>
+    </body>
+</html>
